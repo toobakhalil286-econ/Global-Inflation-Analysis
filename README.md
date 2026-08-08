@@ -92,47 +92,37 @@ The project includes:
 
 ### Python Analysis
 
-`analysis final.py`
+[analysis final.py](./analysis%20final.py)
 
-Main Python analysis script containing the data analysis, visualization, statistical analysis, and forecasting procedures.
+Main Python script containing the data cleaning, analysis, visualization, statistical analysis, and Linear Regression forecasting.
 
-### Data
+### Cleaned Dataset
 
-`API_FP.CPI.TOTL.ZG_DS2_en_csv_v2_285`
+[Cleaned_Global_Inflation_Data.csv](./Cleaned_Global_Inflation_Data.csv)
 
-Original World Bank inflation dataset.
+Cleaned World Bank inflation dataset used for the analysis.
 
-`Cleaned_Global_Inflation_Data`
+### Analysis Graphs
 
-Cleaned dataset prepared for analysis and visualization.
+[Graphs](./Graphs/)
 
-### Graphs
-
-`Graphs/`
-
-Contains the graphs generated during the Python-based analysis.
+Contains the visualizations generated during the Python analysis.
 
 ### Power BI Dashboard
 
-`Dashboard`
+[Dashboard.pbix](./Dashboard.pbix)
 
-Interactive Power BI dashboard developed to present the major findings of the project.
+Interactive Power BI dashboard developed for the project.
 
-`Dashboard p4`
+[Dashboard Preview](./Dashboard%20p4.png)
 
-PNG image of the completed Power BI dashboard.
+Preview image of the completed Power BI dashboard.
 
 ### Research Report
 
-`Global Inflation Analysis.docx research`
+[Final Research Report](./Global%20Inflation%20Analysis.docx%20research.pdf)
 
-Editable Microsoft Word version of the research report.
-
-`Global Inflation Analysis.docx research`
-
-PDF version of the completed research report.
-
----
+Complete research report documenting the methodology, analysis, findings, forecasting, and conclusions.
 
 ## Key Outcomes
 
