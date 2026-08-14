@@ -1,92 +1,53 @@
-# Global-Inflation-Analysis
-Independent data analytics project analyzing global inflation trends from 2000–2025 using Python, Linear Regression, and Power BI.
-# Global Inflation Analysis (2000–2025)
+# Global Inflation Analysis: Macroeconomic Trends & Volatility Forecasting (2000–2025)
 
-## Independent Data Analytics Project
-
-An independent economic data analytics project examining global inflation trends between 2000 and 2025 using World Bank data. The project combines Python-based data cleaning and analysis, statistical analysis, visualization, Linear Regression forecasting, and Power BI dashboard development.
+An independent econometric and data analytics project examining cross-country consumer price dynamics utilizing authoritative global development indicators.
 
 ---
 
-## Project Focus
+## 📈 Executive Research Summary
+This project analyzes the structural trajectory, volatility patterns, and transmission channels of global inflation across the last 25 years. By isolating macroeconomic trends across developing economies—with a specific comparative framework focusing on Pakistan, India, and China—this study leverages quantitative data modeling to evaluate historical price shocks and test the predictive capability of linear trend forecasting models.
 
-Economic data analytics, inflation analysis, visualization, statistical analysis, and forecasting.
+### 🖼️ Interactive Analytics Layer
+*(Double-check your repository to ensure your image path is correct, then replace the placeholder filename below with your exact dashboard image name to make it display automatically on your front page)*
 
----
-
-## Research Questions
-
-1. How did global inflation change between 2000 and 2025?
-2. Which countries experienced the highest and lowest average inflation?
-3. How did inflation vary across countries during the study period?
-4. Which countries experienced greater inflation volatility?
-5. How did Pakistan's inflation trend compare with India and China?
-6. What relationship can be observed among selected inflation series?
-7. Can historical inflation data be used to estimate inflation using Linear Regression?
+![Power BI Financial Dashboard Preview](Dasboard p4.png)
 
 ---
 
-## Dataset
-
-The dataset was obtained from the World Bank Open Data database.
-
-**Source:** World Bank Open Data
-
-**Indicator:** Inflation, Consumer Prices (Annual %)
-
-**Indicator Code:** FP.CPI.TOTL.ZG
-
-**Study Period:** 2000–2025
-
-**Unit:** Percentage (%)
+## 🔬 Core Research Questions
+1. **Structural Trajectory:** How did global consumer price inflation evolve across distinct geographic cohorts between 2000 and 2025?
+2. **Volatility Metrics:** Which sovereign economies experienced the highest baseline inflation levels and structural price volatility?
+3. **Regional Dynamics:** How do Pakistan's long-term inflation trend lines and systemic volatility metrics compare empirically with regional counterparts like India and China?
+4. **Predictive Capability:** Can historical transactional price indexes serve as reliable baseline parameters for linear trend forecasting?
 
 ---
 
-## Tools and Technologies
+## 🛠️ Econometric Framework & Methodology
+Rather than relying on basic statistical overviews, this project engineers an end-to-end quantitative pipeline to clean, balance, and evaluate multi-decade panel metrics:
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- OpenPyXL
-- Microsoft Excel
-- Microsoft Power BI
+* **Data Engineering & Structural Integrity:** Extracted structural parameters from the **World Bank Open Data database** using the Consumer Prices Indicator (`FP.CPI.TOTL.ZG`). Addressed missing cross-country records to enforce strict data density standards.
+* **Exploratory Macroeconomic Modeling:** Executed localized sector stability checks, multi-variable correlation analysis, and price trend indexing using Python (`Pandas`, `NumPy`, `Statsmodels`).
+* **Volatility Analysis:** Calculated historical distribution metrics and price deviations to isolate systemic vulnerabilities across emerging market frameworks.
+* **Trend Forecasting:** Implemented Ordinary Least Squares (OLS) linear trend estimation layers via `Scikit-learn` to map structural trend trajectories.
+* **Visual Intelligence Architecture:** Processed the finalized data blocks into a customized relational schema, deploying a dynamic, multi-page canvas layer in **Power BI** for real-time trend discovery.
 
 ---
 
-## Project Workflow
-
-1. Data Collection
-2. Data Cleaning
-3. Missing-Value Analysis
-4. Exploratory Data Analysis
-5. Statistical Analysis
-6. Inflation Comparison
-7. Volatility and Stability Analysis
-8. Correlation Analysis
-9. Linear Regression Forecasting
-10. Power BI Dashboard Development
+## 📂 Core Project Architecture
+* **`analysis_final.py`** — Primary Python engine managing automated data aggregation, structural cleaning, exploratory analysis, and econometric trend modeling.
+* **`Cleaned_Global_Inflation_Data.csv`** — The verified, balanced cross-country macroeconomic dataset.
+* **`Dashboard.pbix`** — The compiled Power BI architecture containing structural canvas layers and interactive trend visualizers.
+* **`Graphs/`** — Dedicated asset directory containing localized matplotlib distribution maps and regression outputs.
 
 ---
 
-## Analysis Performed
+## 👩‍🔬 Author
+**Tooba Khalil**  
+BS Economics Candidate  
+Government College University (GCU), Lahore, Pakistan  
 
-The project includes:
+*Independent Data Portfolio Project | Focus Area: Quantitative Macroeconomics and Financial Intelligence*
 
-- Global inflation trend analysis
-- Country-level inflation analysis
-- Highest average inflation comparison
-- Lowest average inflation comparison
-- Pakistan inflation trend analysis
-- Inflation volatility analysis
-- Inflation stability analysis
-- Pakistan, India, and China inflation comparison
-- Correlation heatmap analysis
-- Linear Regression forecasting
-- Interactive Power BI dashboard
-
----
 
 ## Project Files
 
@@ -124,36 +85,3 @@ Preview image of the completed Power BI dashboard.
 
 Complete research report documenting the methodology, analysis, findings, forecasting, and conclusions.
 
-## Key Outcomes
-
-The analysis identifies differences in inflation trends, average inflation levels, volatility, and stability across countries during 2000–2025. The project also compares inflation patterns in Pakistan, India, and China and applies Linear Regression to estimate inflation based on historical patterns.
-
-The Power BI dashboard provides an interactive visual presentation of the major findings.
-
----
-
-## Research Report
-
-The complete project report documents the methodology, analysis, findings, forecasting results, limitations, and recommendations.
-
----
-
-## Author
-
-**Tooba Khalil**
-
-BS Economics  
-Government College University Lahore  
-Pakistan
-
----
-
-## Project Type
-
-Independent Data Analytics Project
-
----
-
-## Disclaimer
-
-This project was developed independently as an academic and professional portfolio project. It is intended for educational, analytical, and portfolio purposes.
